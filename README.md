@@ -4,7 +4,7 @@ Welcome to my **Introduction to Bioinformatics** repository! This repo contains 
 
 ## 📚 Course Overview
 
-This course provides a foundational introduction to the interdisciplinary field of bioinformatics, combining biology, computer science, and statistics. Topics covered include:
+This course provides a foundational introduction to the interdisciplinary field of bioinformatics, combining biology, computer science, and statistics. Topics covered include
 
 - DNA, RNA, and protein sequence analysis
 - Sequence alignment (pairwise and multiple)
