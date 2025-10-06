@@ -10,6 +10,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 - Sequence alignment (pairwise and multiple)
 - BLAST and other search tools
 - Genomics and transcriptomics
+- Metabolomics
 - Biological databases
 - Basic Python or R for bioinformatics
 - Data visualization in biological research
