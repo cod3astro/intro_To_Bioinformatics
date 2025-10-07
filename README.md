@@ -12,7 +12,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 - Genomics and transcriptomics
 - Metabolomics
 - Biological databases
-- Basic Python or R for bioinformatics
+- Python or R for bioinformatics
 - Data visualization in biological research
 
 ## 🗂️ Repository Structure
