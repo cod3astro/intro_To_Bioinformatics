@@ -11,6 +11,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 - BLAST and other search tools
 - Genomics and transcriptomics
 - Metabolomics
+- Microbiome 
 - Biological databases
 - Python or R for bioinformatics
 - Data visualization in biological research
