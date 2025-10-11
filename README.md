@@ -1,17 +1,19 @@
 # 🧬 Introduction to Bioinformatics
 
-Welcome to my **Introduction to Bioinformatics** repository! This repo contains all notes, assignments, scripts, and projects from my journey through the course
+Welcome to my **Introduction to Bioinformatics** repository! This repo contains all notes, assignments, scripts, and projects from my journey through the course.
 
 ## 📚 Course Overview;
 
 This course provides a foundational introduction to the interdisciplinary field of bioinformatics, combining biology, computer science, and statistics. Topics covered include.
 
 - DNA, RNA and protein sequence analysis
-- Sequence alignment (pairwise and multiple)
+- Sequence alignment (pairwise and multiple) 
 - BLAST and other search tools
 - Genomics and transcriptomics
+- Metabolomics
+- Microbiome 
 - Biological databases
-- Basic Python or R for bioinformatics
+- Python or R for bioinformatics
 - Data visualization in biological research
 
 ## 🗂️ Repository Structure
