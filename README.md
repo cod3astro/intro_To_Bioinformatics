@@ -1,4 +1,4 @@
-# 🧬 Introduction to Bioinformatics
+# 🧬 Introduction to Bioinformatics 
 
 Welcome to my **Introduction to Bioinformatics** repository! This repo contains all notes, assignments, scripts, and projects from my journey through the course.
 
