@@ -16,7 +16,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 - Python or R for bioinformatics
 - Data visualization in biological research
 
-## 🗂️ Repository Structure 
+## 🗂️ Repository Structure
 
 ```bash
 bioinformatics-intro/
