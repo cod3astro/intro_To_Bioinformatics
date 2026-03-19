@@ -13,7 +13,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 - Metabolomics
 - Microbiome
 - Biological databases
-- Python or R for bioinformatics
+- Python or R for bioinformatics 
 - Data visualization in biological research
 
 ## 🗂️ Repository Structure
