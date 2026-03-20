@@ -26,4 +26,4 @@ bioinformatics-intro/
 ├── data/                 # Sample datasets used for analysis
 ├── assignments/          # Homework and course assignments
 ├── projects/             # Mini or final projects
-└── README.md             # Course overview and repo description
+└── README.md             # Course overview and repo description 
