@@ -8,7 +8,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 
 - DNA, RNA and protein sequence analysis
 - Sequence alignment (pairwise and multiple)
-- BLAST and other search tools
+- BLAST and other search tools 
 - Genomics and transcriptomics
 - Metabolomics
 - Microbiome
