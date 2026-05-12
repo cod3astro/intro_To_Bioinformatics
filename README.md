@@ -21,7 +21,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 ```bash
 bioinformatics-intro/
 │
-├── notebooks/            # Jupyter or R notebooks
+├── notebooks/            # Jupyter or R notebooks 
 ├── scripts/              # Python/R scripts used in assignments or analysis
 ├── data/                 # Sample datasets used for analysis
 ├── assignments/          # Homework and course assignments
