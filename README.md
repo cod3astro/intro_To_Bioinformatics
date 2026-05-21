@@ -25,5 +25,5 @@ bioinformatics-intro/
 ├── scripts/              # Python/R scripts used in assignments or analysis
 ├── data/                 # Sample datasets used for analysis
 ├── assignments/          # Homework and course assignments
-├── projects/             # Mini or final projects
+├── projects/             # Mini or final projects 
 └── README.md             # Course overview and repo description 
