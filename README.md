@@ -18,7 +18,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 
 ## 🗂️ Repository Structure 
 
-```bash 
+```bash
 bioinformatics-intro/ 
 │
 ├── notebooks/            # Jupyter or R notebooks
