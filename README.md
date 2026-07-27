@@ -17,7 +17,7 @@ This course provides a foundational introduction to the interdisciplinary field 
 - Data visualization in biological research 
 
 ## 🗂️ Repository Structure
-
+ 
 ```bash
 bioinformatics-intro/
 │
